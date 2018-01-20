@@ -1,5 +1,5 @@
 # jest-basic-reference
-A reference guide to the basic operations of jest.js
+A reference guide to the basic principals of testing react and redux apps with jest.js
 
 Setup
 ---
